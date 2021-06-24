@@ -2,6 +2,6 @@
     <string name="app_name">Messenger</string>
     <string name="enter_message">Введите сообщение</string>
     <string name="button_send">Отправить</string>
-
+    <string name="chooser_title">Как Вы хотите отправить сообщение?</string>
 
 </resources>
